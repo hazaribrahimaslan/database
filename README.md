@@ -1,4 +1,4 @@
-# Veritabanları
+# hia.db
 <p>Ülke, il, ilçe, dil, para birimi, ağırlık birimi, uzunluk birimi gibi verileri kaydedip burada SQL formatında paylaşıyorum.</p>
 <ul>
   <li><a href="database.sql">Hepsi</a></li>
