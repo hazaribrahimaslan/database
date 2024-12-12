@@ -1,0 +1,20 @@
+$currency = array(
+  array('id' => 'try','symbol' => '₺','en' => 'Turkish Lira','tr' => 'Türk Lirası'),
+  array('id' => 'usd','symbol' => '$','en' => 'American Dollar','tr' => 'Amerikan Doları'),
+  array('id' => 'eur','symbol' => '€','en' => 'Euro','tr' => 'Avro'),
+  array('id' => 'gbp','symbol' => '£','en' => 'British Pound	','tr' => 'İngiliz Sterlini'),
+  array('id' => 'azn','symbol' => '₼','en' => 'Azerbaijani New Manat	','tr' => 'Azerbaycan Manatı'),
+  array('id' => 'bgn','symbol' => 'лв','en' => 'Bulgarian Lev','tr' => 'Bulgar Levası'),
+  array('id' => 'qar','symbol' => '﷼','en' => 'Qatari Riyal	','tr' => 'Katar Riyali'),
+  array('id' => 'cny','symbol' => '¥','en' => 'Chinese Yuan Renminbi	','tr' => 'Çin Yuanı'),
+  array('id' => 'chf','symbol' => 'CHF','en' => 'Swiss Franc','tr' => 'İsviçre Frangı	'),
+  array('id' => 'gel','symbol' => 'GEL','en' => 'Georgian Lari','tr' => 'Gürcistan Larisi'),
+  array('id' => 'kzt','symbol' => 'лв','en' => 'Kazakhstani Tenge','tr' => 'Kazakistan Tengesi'),
+  array('id' => 'sar','symbol' => '﷼','en' => 'Saudi Arabian Riyal','tr' => 'Suudi Arabistan Riyali'),
+  array('id' => 'nok','symbol' => 'kr','en' => 'Norwegian Krone','tr' => 'Norveç Kronu'),
+  array('id' => 'dkk','symbol' => 'kr','en' => 'Danish Krone','tr' => 'Danimarka Kronu'),
+  array('id' => 'aud','symbol' => '$','en' => 'Australian Dollar','tr' => 'Avustralya Doları'),
+  array('id' => 'cad','symbol' => '$','en' => 'Canadian Dollar','tr' => 'Kanada Doları'),
+  array('id' => 'kwd','symbol' => 'د.ك','en' => 'Kuwaiti Dinar','tr' => 'Kuveyt Dinarı'),
+  array('id' => 'irr','symbol' => '﷼','en' => 'Iranian Rial','tr' => 'İran Riyali')
+);
